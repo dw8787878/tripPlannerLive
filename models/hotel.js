@@ -10,4 +10,5 @@ var Hotel = db.define('hotel', {
   amenities: Sequelize.STRING
 });
 
+
 module.exports = Hotel;
